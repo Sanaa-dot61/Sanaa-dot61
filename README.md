@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanaa Mohamed</h1>
 <h3 align="center">A passionate Front-End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanaa-dot61&label=Profile%20views&color=0e75b6&style=flat" alt="sanaa-dot61" /> </p>
-
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, Tailwind CSS, JS, React**
 
 - 💬 Ask me about **Front-End Web Development**
@@ -22,6 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaa-dot61&show_icons=true&locale=en&layout=compact" alt="sanaa-dot61" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaa-dot61&show_icons=true&locale=en" alt="sanaa-dot61" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaa-dot61&" alt="sanaa-dot61" /></p>
 
