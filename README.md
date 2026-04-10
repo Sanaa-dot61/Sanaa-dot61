@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanaa Mohamed</h1>
 <p align="center">
-  <img src="LINK_HERE" alt="profile" width="200" style="border-radius:50%;" />
+  <img src="LINK_HERE" alt="profile" width="200" border-radius:50% style="border-radius:50%;" />
 </p>
 <h3 align="center">A passionate Front-End Developer</h3>
 
